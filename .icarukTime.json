@@ -1,0 +1,34 @@
+{
+    "idleHeartbeats": 5680,
+    "navigatingHeartbeats": 1138,
+    "totalCodingHeartbeats": 9824,
+    "languageHeartbeats": {
+        "vue": 6083,
+        "html": 267,
+        "scss": 854,
+        "javascript": 2110,
+        "plaintext": 510
+    },
+    "fileHeartbeats": {
+        "src/App.vue": 64,
+        "src/views/Home.vue": 325,
+        "public/index.html": 267,
+        "src/style/style.scss": 199,
+        "src/main.js": 303,
+        "src/styles/styles.scss": 655,
+        "src/modules/daybook/layouts/DayBookLayout.vue": 1208,
+        "src/router/index.js": 188,
+        "src/modules/daybook/router/index.js": 508,
+        "src/modules/daybook/components/navbar.vue": 216,
+        "src/modules/daybook/components/entrylist.vue": 908,
+        "src/modules/daybook/components/Entry.vue": 1015,
+        "src/modules/daybook/views/NoEntrySelected.vue": 305,
+        "src/modules/daybook/components/Fab.vue": 635,
+        "src/modules/daybook/views/EntryView.vue": 1407,
+        "Untitled-1": 510,
+        "src/store/index.js": 120,
+        "src/modules/daybook/store/journal/index.js": 239,
+        "src/modules/daybook/store/journal/actions.js": 420,
+        "src/modules/daybook/store/journal/state.js": 332
+    }
+}
