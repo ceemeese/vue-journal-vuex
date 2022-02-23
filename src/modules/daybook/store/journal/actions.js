@@ -2,6 +2,7 @@
 
 //}
 
+//tiene que hacer commit de mutation
 export const loadEntry = async ( /* {commit} */ ) => {
 
 

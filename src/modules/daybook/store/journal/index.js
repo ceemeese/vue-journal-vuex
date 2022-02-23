@@ -9,7 +9,7 @@ const journalModule = {
     actions,
     mutations,
     getters,
-    state
+    state,
 
 }
 

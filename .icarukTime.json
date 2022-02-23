@@ -1,12 +1,12 @@
 {
-    "idleHeartbeats": 5680,
-    "navigatingHeartbeats": 1138,
-    "totalCodingHeartbeats": 9824,
+    "idleHeartbeats": 8769,
+    "navigatingHeartbeats": 2140,
+    "totalCodingHeartbeats": 16027,
     "languageHeartbeats": {
-        "vue": 6083,
+        "vue": 10221,
         "html": 267,
         "scss": 854,
-        "javascript": 2110,
+        "javascript": 4175,
         "plaintext": 510
     },
     "fileHeartbeats": {
@@ -18,17 +18,20 @@
         "src/styles/styles.scss": 655,
         "src/modules/daybook/layouts/DayBookLayout.vue": 1208,
         "src/router/index.js": 188,
-        "src/modules/daybook/router/index.js": 508,
+        "src/modules/daybook/router/index.js": 611,
         "src/modules/daybook/components/navbar.vue": 216,
         "src/modules/daybook/components/entrylist.vue": 908,
-        "src/modules/daybook/components/Entry.vue": 1015,
+        "src/modules/daybook/components/Entry.vue": 1868,
         "src/modules/daybook/views/NoEntrySelected.vue": 305,
         "src/modules/daybook/components/Fab.vue": 635,
-        "src/modules/daybook/views/EntryView.vue": 1407,
+        "src/modules/daybook/views/EntryView.vue": 3408,
         "Untitled-1": 510,
         "src/store/index.js": 120,
         "src/modules/daybook/store/journal/index.js": 239,
-        "src/modules/daybook/store/journal/actions.js": 420,
-        "src/modules/daybook/store/journal/state.js": 332
+        "src/modules/daybook/store/journal/actions.js": 472,
+        "src/modules/daybook/store/journal/state.js": 400,
+        "src/modules/daybook/store/journal/getters.js": 1276,
+        "src/modules/daybook/components/EntryList.vue": 1284,
+        "src/modules/daybook/helpers/getDayMonthYear.js": 566
     }
 }
